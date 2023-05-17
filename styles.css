@@ -6,24 +6,27 @@ html {
     background-color: black;
 }
 
-p {
-    margin-bottom: 10px;
+h1,
+p,
+li {
+    margin-bottom: 0.5em;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+a {
+    color: aqua;
+}
+
+a:hover {
+    color: yellow;
+    text-decoration: none;
 }
 
 .container {
     margin-top: 50px;
     margin-inline: auto;
-    max-width: 1400px;
-}
-
-@media (max-width: 1500px) {
-    .container {
-        margin-inline: 50px;
-    }
-}
-
-@media (max-width: 200px) {
-    .container {
-        margin-inline: 20px;
-    }
+    width:fit-content;
 }
