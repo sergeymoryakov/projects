@@ -60,14 +60,14 @@ ul {
 }
 
 li {
-    margin-bottom: 0.5em;
+    margin-bottom: 1em;
 }
 
 a {
     color: var(--clr-link);
     transition: color 0.3s ease;
     text-decoration: none;
-    padding: 0.5em 0;
+    padding-bottom: 0.5em;
     display: block;
 }
 
