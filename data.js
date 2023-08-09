@@ -65,6 +65,13 @@ export const projectsData = [
         important: true,
     },
     {
+        name: "eCommerce Aviaparts",
+        description:
+            "An eCommerce marketplace for aviation spare parts. Note: Application is upder development.",
+        link: "https://sergeymoryakov.github.io/ecommerce-avia",
+        important: true,
+    },
+    {
         name: "Under Construction",
         description: "An Under Constrcution landing page.",
         link: "https://sergeymoryakov.github.io/under-construction",
