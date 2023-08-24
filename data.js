@@ -72,6 +72,13 @@ export const projectsData = [
         important: true,
     },
     {
+        name: "Cheat Sheets",
+        description:
+            "A list of handy cheat sheets for jr. frontender. Note: Application is upder development.",
+        link: "https://sergeymoryakov.github.io/cheat-sheets",
+        important: false,
+    },
+    {
         name: "Under Construction",
         description: "An Under Constrcution landing page.",
         link: "https://sergeymoryakov.github.io/under-construction",
