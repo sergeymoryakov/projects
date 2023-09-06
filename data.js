@@ -7,14 +7,13 @@ export const projectsData = [
     },
     {
         name: "Seppo.Digital",
-        description:
-            "A landing page of Seppo.Digital - a web development studio.",
+        description: "A landing page of Seppo.Digital web development studio.",
         link: "https://sergeymoryakov.github.io/seppo-digital",
         important: true,
     },
     {
         name: "Metrica",
-        description: "A landing page of Metrica - an interiors design studio.",
+        description: "A landing page of Metrica interiors design studio.",
         link: "https://sergeymoryakov.github.io/metrica",
         important: true,
     },
@@ -45,8 +44,7 @@ export const projectsData = [
     // },
     {
         name: "Blog",
-        description:
-            "A blog drafting and posting application to fit into any website.",
+        description: "A blog drafting and posting application.",
         link: "https://sergeymoryakov.github.io/blog",
         important: true,
     },
@@ -59,7 +57,7 @@ export const projectsData = [
     {
         name: "Action Items",
         description:
-            "A personal application to create and track personal action items list. Practicing MVC pattern and Google Firebase backend.",
+            "A personal application to create and track personal action items list.",
         link: "https://sergeymoryakov.github.io/action-items-frb/",
         important: true,
     },
@@ -71,9 +69,8 @@ export const projectsData = [
         important: true,
     },
     {
-        name: "eCommerce Aviaparts",
-        description:
-            "An eCommerce marketplace for aviation spare parts. Note: Application is upder development.",
+        name: "eCommerce Aviaparts (in development)",
+        description: "An eCommerce marketplace for aviation spare parts.",
         link: "https://sergeymoryakov.github.io/ecommerce-avia",
         important: true,
     },

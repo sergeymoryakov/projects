@@ -8,40 +8,37 @@
     --clr-container-border: #e0e0e0;
 }
 
-body {
-    font-family: "Inter", sans-serif;
-    font-size: 1em;
-    /* line-height: 1.75em; */
+html {
+    font-family: "Open Sans", sans-serif;
+    font-size: 0.75em;
     color: var(--clr-font);
     background-color: var(--clr-back);
+}
+
+body {
     margin: 0;
     padding: 0;
 }
 
 .container {
-    margin: auto auto;
+    margin: 0 auto;
     padding: 1em;
-    max-width: 800px;
+    min-width: 240px;
+    max-width: 450px;
     background-color: var(--clr-container-bg);
     box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
 }
 
-@media (min-width: 400px) {
-    .container {
-        padding: 2em;
+@media (min-width: 260px) {
+    html {
+        font-size: 0.8em;
     }
 }
 
-@media (min-width: 576px) {
-    .container {
-        padding: 3em;
-    }
-}
-
-@media (min-width: 768px) {
-    .container {
-        padding: 4em;
+@media (min-width: 360px) {
+    html {
+        font-size: 1em;
     }
 }
 
