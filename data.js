@@ -19,24 +19,30 @@ export const projectsData = [
         important: true,
     },
     {
-        name: "Counter",
-        description: "A simple counter application to practice JavaScript.",
-        link: "https://sergeymoryakov.github.io/counter",
+        name: "ID Generator (in development)",
+        description: "A password/ID generation application.",
+        link: "https://sergeymoryakov.github.io/id-generator/",
         important: false,
     },
+    // {
+    //     name: "Counter",
+    //     description: "A simple counter application to practice JavaScript.",
+    //     link: "https://sergeymoryakov.github.io/counter",
+    //     important: false,
+    // },
     {
         name: "Expense Tracker",
         description: "A simple personal expense tracker application.",
         link: "https://sergeymoryakov.github.io/expense-tracker",
         important: true,
     },
-    {
-        name: "Action Items",
-        description:
-            "A personal application to create and track personal action items list.",
-        link: "https://sergeymoryakov.github.io/action-items",
-        important: false,
-    },
+    // {
+    //     name: "Action Items",
+    //     description:
+    //         "A personal application to create and track personal action items list.",
+    //     link: "https://sergeymoryakov.github.io/action-items",
+    //     important: false,
+    // },
     {
         name: "Blog",
         description:
@@ -51,7 +57,7 @@ export const projectsData = [
         important: false,
     },
     {
-        name: "Action Items (Firebase)",
+        name: "Action Items",
         description:
             "A personal application to create and track personal action items list. Practicing MVC pattern and Google Firebase backend.",
         link: "https://sergeymoryakov.github.io/action-items-frb/",
@@ -73,8 +79,7 @@ export const projectsData = [
     },
     {
         name: "Cheat Sheets",
-        description:
-            "A list of handy cheat sheets for jr. frontender. Note: Application is upder development.",
+        description: "A list of handy cheat sheets for junior frontenders.",
         link: "https://sergeymoryakov.github.io/cheat-sheets",
         important: false,
     },
