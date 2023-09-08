@@ -18,40 +18,9 @@ export const projectsData = [
         important: true,
     },
     {
-        name: "ID Generator (in development)",
+        name: "ID Generator",
         description: "A password/ID generation application.",
         link: "https://sergeymoryakov.github.io/id-generator/",
-        important: false,
-    },
-    // {
-    //     name: "Counter",
-    //     description: "A simple counter application to practice JavaScript.",
-    //     link: "https://sergeymoryakov.github.io/counter",
-    //     important: false,
-    // },
-    {
-        name: "Expense Tracker",
-        description: "A simple personal expense tracker application.",
-        link: "https://sergeymoryakov.github.io/expense-tracker",
-        important: true,
-    },
-    // {
-    //     name: "Action Items",
-    //     description:
-    //         "A personal application to create and track personal action items list.",
-    //     link: "https://sergeymoryakov.github.io/action-items",
-    //     important: false,
-    // },
-    {
-        name: "Blog",
-        description: "A blog drafting and posting application.",
-        link: "https://sergeymoryakov.github.io/blog",
-        important: true,
-    },
-    {
-        name: "Bored",
-        description: "A funny application to practice JavaScript",
-        link: "https://sergeymoryakov.github.io/bored",
         important: false,
     },
     {
@@ -67,6 +36,37 @@ export const projectsData = [
             "An application to search movies, create and track personal to-watch list.",
         link: "https://sergeymoryakov.github.io/movies",
         important: true,
+    },
+    {
+        name: "Blog",
+        description: "A blog drafting and posting application.",
+        link: "https://sergeymoryakov.github.io/blog",
+        important: true,
+    },
+    {
+        name: "Expense Tracker",
+        description: "A simple personal expense tracker application.",
+        link: "https://sergeymoryakov.github.io/expense-tracker",
+        important: true,
+    },
+    // {
+    //     name: "Counter",
+    //     description: "A simple counter application to practice JavaScript.",
+    //     link: "https://sergeymoryakov.github.io/counter",
+    //     important: false,
+    // },
+    // {
+    //     name: "Action Items",
+    //     description:
+    //         "A personal application to create and track personal action items list.",
+    //     link: "https://sergeymoryakov.github.io/action-items",
+    //     important: false,
+    // },
+    {
+        name: "Bored",
+        description: "A funny application to practice JavaScript",
+        link: "https://sergeymoryakov.github.io/bored",
+        important: false,
     },
     {
         name: "eCommerce Aviaparts (in development)",
