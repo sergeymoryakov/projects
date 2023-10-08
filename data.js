@@ -18,6 +18,12 @@ export const projectsData = [
         important: true,
     },
     {
+        name: "eCommerce Aviaparts",
+        description: "An eCommerce marketplace for aviation spare parts.",
+        link: "https://sergeymoryakov.github.io/ecommerce-avia",
+        important: true,
+    },
+    {
         name: "ID Generator",
         description: "A password/ID generation application.",
         link: "https://sergeymoryakov.github.io/id-generator/",
@@ -67,12 +73,6 @@ export const projectsData = [
         description: "A funny application to practice JavaScript",
         link: "https://sergeymoryakov.github.io/bored",
         important: false,
-    },
-    {
-        name: "eCommerce Aviaparts (in development)",
-        description: "An eCommerce marketplace for aviation spare parts.",
-        link: "https://sergeymoryakov.github.io/ecommerce-avia",
-        important: true,
     },
     {
         name: "Cheat Sheets",
