@@ -24,6 +24,12 @@ export const projectsData = [
         important: true,
     },
     {
+        name: "Login/Registration Form",
+        description: "Login and Signup Forms with React.js and Vite.",
+        link: "https://sergeymoryakov.github.io/registration-form/",
+        important: false,
+    },
+    {
         name: "ID Generator",
         description: "A password/ID generation application.",
         link: "https://sergeymoryakov.github.io/id-generator/",
