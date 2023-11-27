@@ -1,94 +1,82 @@
 export const projectsData = [
     {
         name: "CV",
-        description: "A personal resume.",
+        description: "Curriculum Vitae",
         link: "https://sergeymoryakov.github.io/cv",
         important: true,
     },
     {
-        name: "Seppo.Digital",
-        description: "A landing page of Seppo.Digital web development studio.",
+        name: "SEPPO.Digital",
+        description: "Website for SEPPO.digital Studio (HTML & CSS)",
         link: "https://sergeymoryakov.github.io/seppo-digital",
         important: true,
     },
     {
         name: "Metrica",
-        description: "A landing page of Metrica interiors design studio.",
+        description: "Website for Metrica Interior Design Studio (HTML & CSS)",
         link: "https://sergeymoryakov.github.io/metrica",
         important: true,
     },
     {
-        name: "eCommerce Aviaparts",
-        description: "An eCommerce marketplace for aviation spare parts.",
+        name: "Aviaparts",
+        description:
+            "Aviation Asset Marketplace Platform (JavaScript & Parcel)",
         link: "https://sergeymoryakov.github.io/ecommerce-avia",
         important: true,
     },
     {
+        name: "Fake News",
+        description: "Blog Platform (React, Vite & Firestore)",
+        link: "https://sergeymoryakov.github.io/blog-react/",
+        important: true,
+    },
+    {
         name: "Login/Registration Form",
-        description: "Login and Signup Forms with React.js and Vite.",
+        description: "User Login and Signup Forms (React & Vite)",
         link: "https://sergeymoryakov.github.io/registration-form/",
-        important: false,
-    },
-    {
-        name: "ID Generator",
-        description: "A password/ID generation application.",
-        link: "https://sergeymoryakov.github.io/id-generator/",
-        important: false,
-    },
-    {
-        name: "Action Items",
-        description:
-            "A personal application to create and track personal action items list.",
-        link: "https://sergeymoryakov.github.io/action-items-frb/",
         important: true,
     },
     {
         name: "Movies",
         description:
-            "An application to search movies, create and track personal to-watch list.",
+            "Movie Search and Tracking Application (HTML, CSS, JavaScript)",
         link: "https://sergeymoryakov.github.io/movies",
         important: true,
     },
     {
-        name: "Blog",
-        description: "A blog drafting and posting application.",
-        link: "https://sergeymoryakov.github.io/blog",
+        name: "ID Generator",
+        description: "Password/ID Generation Tool (JavaScript)",
+        link: "https://sergeymoryakov.github.io/id-generator/",
+        important: false,
+    },
+    {
+        name: "Action Items",
+        description: "Task and Action Item Tracker (JavaScript)",
+        link: "https://sergeymoryakov.github.io/action-items-frb/",
         important: true,
     },
     {
         name: "Expense Tracker",
-        description: "A simple personal expense tracker application.",
+        description: "Simple Expense Tracking Application (JavaScript)",
         link: "https://sergeymoryakov.github.io/expense-tracker",
         important: true,
     },
-    // {
-    //     name: "Counter",
-    //     description: "A simple counter application to practice JavaScript.",
-    //     link: "https://sergeymoryakov.github.io/counter",
-    //     important: false,
-    // },
-    // {
-    //     name: "Action Items",
-    //     description:
-    //         "A personal application to create and track personal action items list.",
-    //     link: "https://sergeymoryakov.github.io/action-items",
-    //     important: false,
-    // },
     {
         name: "Bored",
-        description: "A funny application to practice JavaScript",
+        description: "Entertaining App for JavaScript Practice",
         link: "https://sergeymoryakov.github.io/bored",
         important: false,
     },
     {
         name: "Cheat Sheets",
-        description: "A list of handy cheat sheets for junior frontenders.",
+        description:
+            "Collection of Cheat Sheets for Junior Front-end Developers (HTML, CSS & JavaScript)",
         link: "https://sergeymoryakov.github.io/cheat-sheets",
         important: false,
     },
     {
         name: "Under Construction",
-        description: "An Under Constrcution landing page.",
+        description: "Under Construction Landing Page Template (HTML & CSS)",
         link: "https://sergeymoryakov.github.io/under-construction",
         important: false,
     },
