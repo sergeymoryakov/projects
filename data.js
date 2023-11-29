@@ -45,7 +45,7 @@ export const projectsData = [
     },
     {
         name: "ID Generator",
-        description: "Password/ID Generation Tool (JavaScript)",
+        description: "ID/Password Generation Tool (Typescript & Vite)",
         link: "https://sergeymoryakov.github.io/id-generator/",
         important: false,
     },
