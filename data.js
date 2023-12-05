@@ -74,10 +74,10 @@ export const projectsData = [
         link: "https://sergeymoryakov.github.io/cheat-sheets",
         important: false,
     },
-    {
-        name: "Under Construction",
-        description: "Under Construction Landing Page Template (HTML & CSS)",
-        link: "https://sergeymoryakov.github.io/under-construction",
-        important: false,
-    },
+    // {
+    //     name: "Under Construction",
+    //     description: "Under Construction Landing Page Template (HTML & CSS)",
+    //     link: "https://sergeymoryakov.github.io/under-construction",
+    //     important: false,
+    // },
 ];
