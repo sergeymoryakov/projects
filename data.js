@@ -37,6 +37,12 @@ export const projectsData = [
         important: true,
     },
     {
+        name: "Season's Greetings",
+        description: "Christmas Greetings Animated Card (HTML, CSS, JavaScript)",
+        link: "https://sergeymoryakov.github.io/seasons-greetings/",
+        important: true,
+    },
+    {
         name: "Movies",
         description:
             "Movie Search and Tracking Application (HTML, CSS, JavaScript)",
