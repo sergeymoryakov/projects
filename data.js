@@ -6,22 +6,29 @@ export const projectsData = [
         important: true,
     },
     {
+        name: "Karagoz Aviation",
+        description:
+            "Karagoz Aviation Website (HTML, CSS, Javascript, Web Components, Vite)",
+        link: "https://sergeymoryakov.github.io/kza-website/",
+        important: true,
+    },
+    {
         name: "SEPPO.Digital",
         description: "Website for SEPPO.digital Studio (HTML & CSS)",
-        link: "https://sergeymoryakov.github.io/seppo-digital",
+        link: "https://sergeymoryakov.github.io/seppo-digital/",
         important: true,
     },
     {
         name: "Metrica",
         description: "Website for Metrica Interior Design Studio (HTML & CSS)",
-        link: "https://sergeymoryakov.github.io/metrica",
+        link: "https://sergeymoryakov.github.io/metrica/",
         important: true,
     },
     {
         name: "Aviaparts",
         description:
             "Aviation Asset Marketplace Platform (JavaScript & Parcel)",
-        link: "https://sergeymoryakov.github.io/ecommerce-avia",
+        link: "https://sergeymoryakov.github.io/ecommerce-avia/",
         important: true,
     },
     {
