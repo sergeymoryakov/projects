@@ -38,22 +38,10 @@ export const projectsData = [
         important: true,
     },
     {
-        name: "Login/Registration Form",
-        description: "User Login and Signup Forms (React & Vite)",
-        link: "https://sergeymoryakov.github.io/registration-form/",
-        important: true,
-    },
-    {
         name: "Season's Greetings",
-        description: "Christmas Greetings Animated Card (HTML, CSS, JavaScript)",
-        link: "https://sergeymoryakov.github.io/seasons-greetings/",
-        important: true,
-    },
-    {
-        name: "Movies",
         description:
-            "Movie Search and Tracking Application (HTML, CSS, JavaScript)",
-        link: "https://sergeymoryakov.github.io/movies",
+            "Christmas Greetings Animated Card (HTML, CSS, JavaScript)",
+        link: "https://sergeymoryakov.github.io/seasons-greetings/",
         important: true,
     },
     {
@@ -62,35 +50,4 @@ export const projectsData = [
         link: "https://sergeymoryakov.github.io/id-generator/",
         important: false,
     },
-    {
-        name: "Action Items",
-        description: "Task and Action Item Tracker (JavaScript)",
-        link: "https://sergeymoryakov.github.io/action-items-frb/",
-        important: true,
-    },
-    {
-        name: "Expense Tracker",
-        description: "Simple Expense Tracking Application (JavaScript)",
-        link: "https://sergeymoryakov.github.io/expense-tracker",
-        important: true,
-    },
-    {
-        name: "Bored",
-        description: "Entertaining App for JavaScript Practice",
-        link: "https://sergeymoryakov.github.io/bored",
-        important: false,
-    },
-    {
-        name: "Cheat Sheets",
-        description:
-            "Collection of Cheat Sheets for Junior Front-end Developers (HTML, CSS & JavaScript)",
-        link: "https://sergeymoryakov.github.io/cheat-sheets",
-        important: false,
-    },
-    // {
-    //     name: "Under Construction",
-    //     description: "Under Construction Landing Page Template (HTML & CSS)",
-    //     link: "https://sergeymoryakov.github.io/under-construction",
-    //     important: false,
-    // },
 ];
