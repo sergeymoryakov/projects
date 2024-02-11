@@ -32,6 +32,13 @@ export const projectsData = [
         important: true,
     },
     {
+        name: "WebDev Cheat Sheets",
+        description:
+            "Web Developer Cheat Sheets (Vite, React, TypeScript, and Material UI)",
+        link: "https://sergeymoryakov.github.io/cheat-sheets-2024/",
+        important: true,
+    },
+    {
         name: "Fake News",
         description: "Blog Platform (React, Vite & Firestore)",
         link: "https://sergeymoryakov.github.io/blog-react/",
